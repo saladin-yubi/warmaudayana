@@ -1,0 +1,118 @@
+<!doctype html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<link rel="stylesheet" href="assets/css/about-styles.css"/>
+		<title>WARMA CERITA - WARMA UDAYANA</title>
+		</head>
+		<header>
+		<nav>
+			<input id="nav-toggle" type="checkbox"/>
+			<div class="logo"><img src="assets/media/img/logo.png"/></div>
+				<ul class="links">
+					<li><a href="index.html">BERANDA</a></li>
+					<li><a href="#" style="color: #A2D5AB;">TENTANG KAMI</a></li>
+					<li><a href="port-askara.html">MAJALAH ASKARA</a></li>
+					<li><a href="port-warma-cerita.html">WARMA CERITA</a></li>
+					<li><a href="port-berita.html">BERITA</a></li>
+				</ul>
+			<label for="nav-toggle" class="iconic">
+				<div class="line"></div>
+				<div class="line"></div>
+				<div class="line"></div>
+			</label>
+		</nav>
+			<div class="content">
+			<h1 align="center"><b>WARMA (Warga Mahasiswa Arkeologi) merupakan Himpunan Mahasiswa Program Studi Arkeologi Universitas Udayana yang telah berdiri sejak tahun 1976. Didirikan pada 28 September, WARMA menjadi wadah mahasiswa Arkeologi dalam berorganisasi sekaligus mengembangkan minat dan bakat para anggotanya.</b></h1>
+			</div>
+		</header>
+	<body>
+		<div class="vision">
+			<div class="tab">
+			<table>
+					<tr>
+						<td><h2 align="center"><u>VISI</u></h2>
+							<p align="center">Samani Ghacanti Samani Jayanti yang berarti Berjalan Bersama Berjaya Bersama</p>
+							<p/>
+							<h2 align="center"><u>MISI</u></h2>
+								<ul>
+									<li>Menjadikan WARMA sebagai wadah organisasi mahasiswa arkeologi Fakultas Ilmu Budaya, Universitas Udayana.</li>
+									<li>Menumbuhkembangkan kreativitas anggota WARMA.</li>
+									<li>Membina dan mengembangkan pengetahuan, kemampuan, dan keterampilan dalam menerapkan disiplin ilmu arkeologi.</li>
+									<li>Sebagai wadah pengabdian masyarakat mahasiswa arkeologi.</li>
+									<li>Menanamkan nilai-nilai kesatuan, professional, loyal, dan berkualitas.</li>
+								</ul>
+							</td>
+						</tr>
+				</table>
+			</div>
+			<div class="tab">
+				<table>
+					<tr>
+						<td><img src="assets/media/img/v-logo.svg" class="img" width="250px" height="350px"/>
+							<h2 align="center"><u>LAMBANG</u></h2>
+							<p align="center">WARMA mempunyai lambang berbentuk oval yang memiliki arti persahabatan, kesatuan, stabilitas, dan daya tahan. Di dalam bentuk oval terdapat Sangka yang merupakan simbol Dewa Wisnu yang berarti pelindungan dan pemeliharaan. Sayap di sisi kiri dan kanan memiliki arti kebebasan berkreativitas.</p>
+						</td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<div class="content">
+			<h2 align="center">FUNGSIONARIS</h2>
+				<div class="funx" role="navigation" align="center">
+  					<button class="tablinks" onclick="openFunx(event, 'Bidang1')" id="defaultOpen">Bidang 1</button>
+  					<button class="tablinks" onclick="openFunx(event, 'Bidang2')">Bidang 2</button>
+  					<button class="tablinks" onclick="openFunx(event, 'Bidang3')">Bidang 3</button>
+					<button class="tablinks" onclick="openFunx(event, 'Bidang4')">Bidang 4</button>
+					<button class="tablinks" onclick="openFunx(event, 'Bidang5')">Bidang 5</button>
+				</div>
+				<div id="Bidang1" class="funxcontent" align="center">
+  					<h2>Penalaran dan Penelitian Ilmiah</h2>
+  					<p>Bidang yang bertanggung jawab dalam hal-hal yang berhubungan dengan penalaran dan penelitian studi Arkeologi.</p>
+				</div>
+				<div id="Bidang2" class="funxcontent" align="center">
+					<h2>Hubungan Masyarakat</h2>
+					<p>Bidang yang bertanggung jawab dalam menjalin hubungan dengan pihak internal (WARMA) dan eksternal (di luar WARMA).</p> 
+				</div>
+				<div id="Bidang3" class="funxcontent" align="center">
+  					<h2>Logistik</h2>
+  					<p>Bidang yang bertanggung jawab dalam hal pendataan peralatan dan perlengkapan WARMA.</p>
+				</div>
+				<div id="Bidang4" class="funxcontent" align="center">
+  					<h2>Minat dan Bakat</h2>
+  					<p>Bidang yang berfungsi sebagai wadah atau sarana penyalur minat dan bakat anggota WARMA</p>
+				</div>
+				<div id="Bidang5" class="funxcontent" align="center">
+  					<h2>Dana dan Usaha</h2>
+  					<p>Bidang yang bertanggung jawab dalam penggalangan dana, baik dalam bentuk usaha, atau lainnya demi kepentingan WARMA</p>
+				</div>
+<script>
+function openFunx(evt, cityName) {
+  	var i, funxcontent, tablinks;
+  	funxcontent = document.getElementsByClassName("funxcontent");
+  	for (i = 0; i < funxcontent.length; i++) {
+    	funxcontent[i].style.display = "none";
+  	}
+  	tablinks = document.getElementsByClassName("tablinks");
+  	for (i = 0; i < tablinks.length; i++) {
+    	tablinks[i].className = tablinks[i].className.replace(" active", "");
+  	}
+  	document.getElementById(cityName).style.display = "block";
+  	evt.currentTarget.className += " active";
+	}
+document.getElementById("defaultOpen").click();
+</script>
+		</div>
+	</body>
+	<footer>
+		<div>
+            <div>
+                <a href="mailto:warmaunud28@gmail.com" target="_blank" rel="noopener noreferrer"><img src="assets/media/img/email.png"/ height="25px" width="25px"/></a>
+                <a href="https://www.instagram.com/warmaunud/" target="_blank" rel="noopener noreferrer"><img src="assets/media/img/ig.png"/ height="25px" width="25px"/></a>
+                <a href="https://www.tiktok.com/@warmaunud" target="_blank" rel="noopener noreferrer"><img src="assets/media/img/tk.png" height="25px" width="25px"/></a>
+				<a href="https://www.youtube.com/channel/UCrjdNkIeVf4mr_xl1fE5mSQ" target="_blank" rel="noopener noreferrer"><img src="assets/media/img/yt.png" height="25px" width="25px"/></a>
+				<a href="https://liff.line.me/1645278921-kWRPP32q/?accountId=323xbxzs" target="_blank" rel="noopener noreferrer"><img src="assets/media/img/line.png"/ height="25px" width="25px"/></a>
+            </div>
+        </div>
+	</footer>
+</html>
