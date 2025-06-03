@@ -1,0 +1,18 @@
+@media screen and (max-width: 1350px) {
+
+footer {
+  	background-color: #A2D5AB;
+  	color: #000000;
+  	text-align: right;
+  	padding-bottom: 5px;
+	padding-right: 25px;
+	padding-left: 5px;
+	padding-top: 5px;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+footer img {
+	padding: 2px;
+  }

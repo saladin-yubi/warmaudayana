@@ -1,0 +1,1203 @@
+/* Ver 2 */
+
+position: relative;
+width: 1920px;
+height: 3850px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 1920px;
+height: 3850px;
+left: 0px;
+top: 0px;
+
+background: #1E2434;
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 1920px;
+height: 70px;
+left: 0px;
+top: 3780px;
+
+background: #A2D5AB;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 1080px;
+
+background: #A2D5AB;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 872px;
+height: 830px;
+left: 49px;
+top: 1205px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+border-radius: 25px;
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 872px;
+height: 830px;
+left: 987px;
+top: 1205px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+border-radius: 25px;
+
+
+/* Samani Ghacanti Samani Jayanti yang berarti Berjalan Bersama Berjaya Bersama */
+
+position: absolute;
+width: 848px;
+height: 64px;
+left: 73px;
+top: 1413px;
+
+font-family: 'Oxygen';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 32px;
+text-align: center;
+
+color: #1E2434;
+
+
+
+/* WARMA mempunyai lambang berbentuk oval yang memiliki arti persahabatan, kesatuan, stabilitas, dan daya tahan. Di dalam bentuk oval terdapat Sangka yang merupakan simbol Dewa Wisnu yang berarti pelindungan dan pemeliharaan. Sayap di sisi kiri dan kanan memiliki arti kebebasan berkreativitas. */
+
+position: absolute;
+width: 703px;
+height: 167px;
+left: 1071px;
+top: 1749px;
+
+font-family: 'Oxygen';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 32px;
+text-align: center;
+
+color: #1E2434;
+
+
+
+/* Menjadikan WARMA sebagai wadah organisasi mahasiswa arkeologi Fakultas Ilmu Budaya, Universitas Udayana. Menumbuhkembangkan kreativitas anggota WARMA. Membina dan mengembangkan pengetahuan, kemampuan, dan keterampilan dalam menerapkan disiplin ilmu arkeologi. Sebagai wadah pengabdian masyarakat mahasiswa arkeologi. Menanamkan nilai-nilai kesatuan, professional, loyal, dan berkualitas. */
+
+position: absolute;
+width: 791px;
+height: 247px;
+left: 101px;
+top: 1651px;
+
+font-family: 'Oxygen';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 32px;
+
+color: #1E2434;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 534px;
+height: 128px;
+left: 0px;
+top: 30px;
+
+background: #A2D5AB;
+mix-blend-mode: normal;
+box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+border-radius: 0px 25px 25px 0px;
+
+
+/* Logo Warma 1 */
+
+position: absolute;
+width: 92px;
+height: 99px;
+left: 7px;
+top: 44px;
+
+background: url(Logo Warma.png);
+
+
+/* WARMA (Warga Mahasiswa Arkeologi) merupakan Himpunan Mahasiswa Program Studi Arkeologi Universitas Udayana yang telah berdiri sejak tahun 1976. Didirikan pada 28 September, WARMA menjadi wadah mahasiswa Arkeologi dalam berorganisasi sekaligus mengembangkan minat dan bakat para anggotanya. */
+
+position: absolute;
+width: 1660px;
+height: 484px;
+left: 130px;
+top: 400px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 70px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* VISI */
+
+position: absolute;
+width: 214px;
+height: 78px;
+left: 378px;
+top: 1299px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 94px;
+text-align: center;
+
+color: #1E2434;
+
+
+
+/* MISI */
+
+position: absolute;
+width: 214px;
+height: 78px;
+left: 378px;
+top: 1525px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 94px;
+text-align: center;
+
+color: #1E2434;
+
+
+
+/* BERANDA */
+
+position: absolute;
+width: 246px;
+height: 61px;
+left: 686px;
+top: 73px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* WARGA MAHASISWA ARKEOLOGI */
+
+position: absolute;
+width: 429px;
+height: 61px;
+left: 105px;
+top: 59px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 29px;
+
+color: #1E2434;
+
+
+
+/* UNIVERSITAS UDAYANA */
+
+position: absolute;
+width: 582px;
+height: 61px;
+left: 105px;
+top: 99px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+
+color: #1E2434;
+
+
+
+/* BERITA */
+
+position: absolute;
+width: 246px;
+height: 61px;
+left: 1654px;
+top: 73px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* WARMA CERITA */
+
+position: absolute;
+width: 320px;
+height: 61px;
+left: 1426px;
+top: 73px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* MAJALAH ASKARA */
+
+position: absolute;
+width: 336px;
+height: 61px;
+left: 1160px;
+top: 75px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* TENTANG WARMA */
+
+position: absolute;
+width: 336px;
+height: 61px;
+left: 878px;
+top: 73px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #A2D5AB;
+
+
+
+/* Add a heading 1 */
+
+position: absolute;
+width: 49px;
+height: 39px;
+left: 1671px;
+top: 3792px;
+
+background: url(Add a heading.png);
+
+
+/* Add a heading 2 */
+
+position: absolute;
+width: 58px;
+height: 50px;
+left: 1779px;
+top: 3782px;
+
+background: url(Add a heading.png);
+
+
+/* Add a heading 4 */
+
+position: absolute;
+width: 48px;
+height: 46px;
+left: 1726px;
+top: 3789px;
+
+background: url(Add a heading.png);
+
+
+/* Add a heading 3 */
+
+position: absolute;
+width: 54px;
+height: 53px;
+left: 1832px;
+top: 3779px;
+
+background: url(Add a heading.png);
+
+
+/* Logo Warma 2 */
+
+position: absolute;
+width: 319px;
+height: 363px;
+left: 1267px;
+top: 1257px;
+
+background: url(Logo Warma.png);
+
+
+/* Line 5 */
+
+position: absolute;
+width: 178.18px;
+height: 0px;
+left: 396.91px;
+top: 1394px;
+
+border: 4px solid #1E2434;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 395px;
+height: 98px;
+left: 1225px;
+top: 1636px;
+
+
+
+/* LAMBANG */
+
+position: absolute;
+width: 395px;
+height: 78px;
+left: 1225px;
+top: 1636px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 94px;
+text-align: center;
+
+color: #1E2434;
+
+
+
+/* Line 7 */
+
+position: absolute;
+width: 385px;
+height: 0px;
+left: 1230px;
+top: 1734px;
+
+border: 4px solid #1E2434;
+
+
+/* Line 6 */
+
+position: absolute;
+width: 178.18px;
+height: 0px;
+left: 396px;
+top: 1620px;
+
+border: 4px solid #1E2434;
+
+
+/* FUNGSIONARIS */
+
+position: absolute;
+width: 805px;
+height: 78px;
+left: 557px;
+top: 2240px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 90px;
+line-height: 106px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Bidang 3 */
+
+position: absolute;
+width: 336px;
+height: 61px;
+left: 875px;
+top: 2428px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Bidang 2 */
+
+position: absolute;
+width: 336px;
+height: 61px;
+left: 679px;
+top: 2428px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Inti */
+
+position: absolute;
+width: 336px;
+height: 61px;
+left: 282px;
+top: 2428px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Bidang 1 */
+
+position: absolute;
+width: 336px;
+height: 61px;
+left: 486px;
+top: 2428px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Bidang 4 */
+
+position: absolute;
+width: 336px;
+height: 61px;
+left: 1070px;
+top: 2428px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Bidang 5 */
+
+position: absolute;
+width: 336px;
+height: 61px;
+left: 1253px;
+top: 2428px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 146px;
+height: 65px;
+left: 578px;
+top: 2413px;
+
+border: 4px solid #FFFFFF;
+border-radius: 50px;
+
+
+/* Group 10 */
+
+position: absolute;
+width: 187.95px;
+height: 292.37px;
+left: 510px;
+top: 2849px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 187.95px;
+height: 292.37px;
+left: 510px;
+top: 2849px;
+
+background: rgba(0, 0, 0, 0.12);
+mix-blend-mode: normal;
+box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+border-radius: 25px;
+
+
+/* Taqwa */
+
+position: absolute;
+width: 139.91px;
+height: 26.13px;
+left: 534.44px;
+top: 3060.55px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Untitled design 1 */
+
+position: absolute;
+width: 128.46px;
+height: 192.38px;
+left: 546.07px;
+top: 2859.76px;
+
+background: url(Untitled design.png);
+
+
+/* Ketua bidang */
+
+position: absolute;
+width: 118.34px;
+height: 27.84px;
+left: 544.81px;
+top: 3106.98px;
+
+font-family: 'Oxygen';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 187.95px;
+height: 292.37px;
+left: 747.74px;
+top: 2849px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 187.95px;
+height: 292.37px;
+left: 747.74px;
+top: 2849px;
+
+background: rgba(0, 0, 0, 0.12);
+mix-blend-mode: normal;
+box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+border-radius: 25px;
+
+
+/* Bandem */
+
+position: absolute;
+width: 139.91px;
+height: 26.13px;
+left: 772.18px;
+top: 3060.55px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Untitled design 1 */
+
+position: absolute;
+width: 128.46px;
+height: 192.38px;
+left: 783.81px;
+top: 2859.76px;
+
+background: url(Untitled design.png);
+
+
+/* Anggota */
+
+position: absolute;
+width: 118.34px;
+height: 27.84px;
+left: 782.54px;
+top: 3106.98px;
+
+font-family: 'Oxygen';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 187.95px;
+height: 292.37px;
+left: 978.51px;
+top: 2849px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 187.95px;
+height: 292.37px;
+left: 978.51px;
+top: 2849px;
+
+background: rgba(0, 0, 0, 0.12);
+mix-blend-mode: normal;
+box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+border-radius: 25px;
+
+
+/* Hiwa */
+
+position: absolute;
+width: 139.91px;
+height: 26.13px;
+left: 1002.96px;
+top: 3060.55px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Untitled design 1 */
+
+position: absolute;
+width: 128.46px;
+height: 192.38px;
+left: 1014.59px;
+top: 2859.76px;
+
+background: url(Untitled design.png);
+
+
+/* Anggota */
+
+position: absolute;
+width: 118.34px;
+height: 27.84px;
+left: 1013.32px;
+top: 3106.98px;
+
+font-family: 'Oxygen';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 13 */
+
+position: absolute;
+width: 187.95px;
+height: 292.37px;
+left: 1216.25px;
+top: 2849px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 187.95px;
+height: 292.37px;
+left: 1216.25px;
+top: 2849px;
+
+background: rgba(0, 0, 0, 0.12);
+mix-blend-mode: normal;
+box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+border-radius: 25px;
+
+
+/* Tirta */
+
+position: absolute;
+width: 139.91px;
+height: 26.13px;
+left: 1240.69px;
+top: 3060.55px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Untitled design 1 */
+
+position: absolute;
+width: 128.46px;
+height: 192.38px;
+left: 1252.32px;
+top: 2859.76px;
+
+background: url(Untitled design.png);
+
+
+/* Anggota */
+
+position: absolute;
+width: 118.34px;
+height: 27.84px;
+left: 1251.06px;
+top: 3106.98px;
+
+font-family: 'Oxygen';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 14 */
+
+position: absolute;
+width: 187.95px;
+height: 292.37px;
+left: 510px;
+top: 3200.39px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 187.95px;
+height: 292.37px;
+left: 510px;
+top: 3200.39px;
+
+background: rgba(0, 0, 0, 0.12);
+mix-blend-mode: normal;
+box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+border-radius: 25px;
+
+
+/* Taqwa */
+
+position: absolute;
+width: 139.91px;
+height: 26.13px;
+left: 534.44px;
+top: 3411.94px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Untitled design 1 */
+
+position: absolute;
+width: 128.46px;
+height: 192.38px;
+left: 546.07px;
+top: 3211.14px;
+
+background: url(Untitled design.png);
+
+
+/* Irfan */
+
+position: absolute;
+width: 118.34px;
+height: 27.84px;
+left: 544.81px;
+top: 3458.37px;
+
+font-family: 'Oxygen';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 15 */
+
+position: absolute;
+width: 187.95px;
+height: 292.37px;
+left: 747.74px;
+top: 3200.39px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 187.95px;
+height: 292.37px;
+left: 747.74px;
+top: 3200.39px;
+
+background: rgba(0, 0, 0, 0.12);
+mix-blend-mode: normal;
+box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+border-radius: 25px;
+
+
+/* Taqwa */
+
+position: absolute;
+width: 139.91px;
+height: 26.13px;
+left: 772.18px;
+top: 3411.94px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Untitled design 1 */
+
+position: absolute;
+width: 128.46px;
+height: 192.38px;
+left: 783.81px;
+top: 3211.14px;
+
+background: url(Untitled design.png);
+
+
+/* Anggota */
+
+position: absolute;
+width: 118.34px;
+height: 27.84px;
+left: 782.54px;
+top: 3458.37px;
+
+font-family: 'Oxygen';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 16 */
+
+position: absolute;
+width: 187.95px;
+height: 292.37px;
+left: 984.31px;
+top: 3200.39px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 187.95px;
+height: 292.37px;
+left: 984.31px;
+top: 3200.39px;
+
+background: rgba(0, 0, 0, 0.12);
+mix-blend-mode: normal;
+box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+border-radius: 25px;
+
+
+/* Taqwa */
+
+position: absolute;
+width: 139.91px;
+height: 26.13px;
+left: 1008.75px;
+top: 3411.94px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Untitled design 1 */
+
+position: absolute;
+width: 128.46px;
+height: 192.38px;
+left: 1020.38px;
+top: 3211.14px;
+
+background: url(Untitled design.png);
+
+
+/* Anggota */
+
+position: absolute;
+width: 118.34px;
+height: 27.84px;
+left: 1019.12px;
+top: 3458.37px;
+
+font-family: 'Oxygen';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 17 */
+
+position: absolute;
+width: 187.95px;
+height: 292.37px;
+left: 1222.05px;
+top: 3200.39px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 187.95px;
+height: 292.37px;
+left: 1222.05px;
+top: 3200.39px;
+
+background: rgba(0, 0, 0, 0.12);
+mix-blend-mode: normal;
+box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+border-radius: 25px;
+
+
+/* Taqwa */
+
+position: absolute;
+width: 139.91px;
+height: 26.13px;
+left: 1246.49px;
+top: 3411.94px;
+
+font-family: 'Maven Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Untitled design 1 */
+
+position: absolute;
+width: 128.46px;
+height: 192.38px;
+left: 1258.12px;
+top: 3211.14px;
+
+background: url(Untitled design.png);
+
+
+/* Anggota */
+
+position: absolute;
+width: 118.34px;
+height: 27.84px;
+left: 1256.85px;
+top: 3458.37px;
+
+font-family: 'Oxygen';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 19px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Bidang Penalaran dan Penelitian Ilmiah adalah bidang yang bertanggung jawab dalam hal-hal yang berhubungan dengan penalaran dan penelitian studi Arkeologi. */
+
+position: absolute;
+width: 942px;
+height: 139px;
+left: 489px;
+top: 2630px;
+
+font-family: 'Oxygen';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+text-align: center;
+
+color: #FFFFFF;
+
